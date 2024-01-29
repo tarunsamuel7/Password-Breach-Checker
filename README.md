@@ -3,11 +3,9 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yourusername/password-breach-check/blob/main/LICENSE)
 ![Language](https://img.shields.io/badge/Language-Python-blue.svg)
 
-A Python program to check if passwords have been compromised using the haveibeenpwned.com API.
-
 ## Overview
 
-The tutorials here are aimed at a general overview of analysing electrophysiological data.
+A Python program to check if passwords have been compromised using the haveibeenpwned.com API.
 
 ## Features
 
