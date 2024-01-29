@@ -9,8 +9,9 @@ A Python program to check if passwords have been compromised using the haveibeen
 ## Features
 
 - Utilizes the haveibeenpwned.com API to check for password breaches.
-- Checks if passwords provided in a file have a history of being breached.
-- Provides a simple command-line interface.
+- Hashes passwords using the SHA-1 algorithm.
+- Splits the hashed password, takes the first 5 characters, and queries the API for all hashed passwords that start with these initial 5 characters.
+- Checks if hashed password is within the retrieved list and displays the count of breaches for that password.
 
 ## Getting Started
 
