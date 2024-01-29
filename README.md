@@ -1,6 +1,5 @@
 # Password Breach Checker
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yourusername/password-breach-check/blob/main/LICENSE)
 ![Language](https://img.shields.io/badge/Language-Python-blue.svg)
 
 ## Overview
